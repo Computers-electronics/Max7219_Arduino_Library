@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map For Max7219.h
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Max7219	KEYWORD1
+HARDWARE_TYPE	KEYWORD1
+MAX_DEVICES	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+command	KEYWORD2
+begin	KEYWORD2
+clear	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NOOP	LITERAL1
+DIGIT0	LITERAL1
+DIGIT1	LITERAL1
+DIGIT2	LITERAL1
+DIGIT3	LITERAL1
+DIGIT4	LITERAL1
+DIGIT5	LITERAL1
+DIGIT6	LITERAL1
+DIGIT7	LITERAL1
+DECODEMODE	LITERAL1
+INTENSITY	LITERAL1
+SCANLIMIT	LITERAL1
+SHUTDOWN	LITERAL1
+DISPLAYTEST	LITERAL1
+GENERIC_HW	LITERAL1
+FC16_HW	LITERAL1
+PAROLA_HW	LITERAL1
+ICSTATION_HW	LITERAL1
+DR0CR0RR0_HW	LITERAL1
+DR0CR0RR1_HW	LITERAL1
+DR0CR1RR0_HW	LITERAL1
+DR0CR1RR1_HW	LITERAL1
+DR1CR0RR0_HW	LITERAL1
+DR1CR0RR1_HW	LITERAL1
+DR1CR1RR0_HW	LITERAL1
+DR1CR1RR1_HW	LITERAL1
